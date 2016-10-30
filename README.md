@@ -12,4 +12,4 @@ python main.py
 
 
 
-![Mandelbrot Set Preview](mandelprot-preview.png?raw=true "Optional Title")
+![Mandelbrot Set Preview](mandelbrot-preview.png?raw=true "Optional Title")
