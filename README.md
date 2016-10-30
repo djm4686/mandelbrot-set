@@ -12,4 +12,4 @@ python main.py
 
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/mandelprot-preview.png?raw=true "Optional Title")
